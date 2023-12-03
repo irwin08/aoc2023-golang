@@ -7,5 +7,6 @@ import (
 
 func main() {
 	fmt.Println("Hello world!")
-	fmt.Println(day1.RunDay1())
+	fmt.Println(day1.RunDayP1())
+	fmt.Println(day1.RunDayP2())
 }
