@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/irwin08/aoc2023-golang/day2"
+	"github.com/irwin08/aoc2023-golang/day3"
 )
 
 func main() {
-	fmt.Println(day2.RunDayP1())
-	fmt.Println(day2.RunDayP2())
+	fmt.Println(day3.RunDayP1())
+	fmt.Println(day3.RunDayP2())
 }
